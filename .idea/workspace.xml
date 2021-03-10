@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="112c9fcb-09c6-41b3-8d5c-275ac7edbf7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iRmHDxsdJiC26gTmpeDZkXD4EN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mordsed/src/Components/Header" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ts.external.directory.path" value="C:\Users\bozhe\Documents\project1\mordsed\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Header" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Redux" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Profile\ProfileInfo" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Profile" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Menu\Users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Login" />
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Profile" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="112c9fcb-09c6-41b3-8d5c-275ac7edbf7b" name="Default Changelist" comment="" />
+      <created>1601878693090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601878693090</updated>
+      <workItem from="1601878694170" duration="6021000" />
+      <workItem from="1602167638097" duration="4759000" />
+      <workItem from="1602527894383" duration="718000" />
+      <workItem from="1602595317206" duration="7313000" />
+      <workItem from="1602603794742" duration="4347000" />
+      <workItem from="1602674053900" duration="7850000" />
+      <workItem from="1602688863172" duration="1801000" />
+      <workItem from="1602690701103" duration="1792000" />
+      <workItem from="1602692522720" duration="1782000" />
+      <workItem from="1602694334454" duration="1275000" />
+      <workItem from="1602696145949" duration="1972000" />
+      <workItem from="1607331077243" duration="1150000" />
+      <workItem from="1607332251007" duration="13828000" />
+      <workItem from="1607426325212" duration="10693000" />
+      <workItem from="1607441639152" duration="5390000" />
+      <workItem from="1607686622961" duration="7135000" />
+      <workItem from="1607706467585" duration="2888000" />
+      <workItem from="1607779197390" duration="3283000" />
+      <workItem from="1608118944124" duration="2411000" />
+      <workItem from="1612898139688" duration="120000" />
+      <workItem from="1612980083356" duration="3843000" />
+      <workItem from="1613035019204" duration="5581000" />
+      <workItem from="1613116742170" duration="3885000" />
+      <workItem from="1613120671270" duration="2885000" />
+      <workItem from="1613123593979" duration="2408000" />
+      <workItem from="1614674286083" duration="5173000" />
+      <workItem from="1614683894856" duration="8000000" />
+      <workItem from="1614712372490" duration="2833000" />
+      <workItem from="1614756288204" duration="1151000" />
+      <workItem from="1614843811319" duration="5420000" />
+      <workItem from="1615281639342" duration="14602000" />
+      <workItem from="1615367115763" duration="3596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mordsed/src/react-app-env.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/mordsed/src/Redux/Store.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

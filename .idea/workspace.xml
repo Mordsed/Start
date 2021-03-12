@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112c9fcb-09c6-41b3-8d5c-275ac7edbf7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileStatus/ProfileStatus.jsx" afterDir="false" />
+    <list default="true" id="112c9fcb-09c6-41b3-8d5c-275ac7edbf7b" name="Default Changelist" comment="+1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Axios/Axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Axios/Axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Redux/profile-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileStatus/ProfileStatus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileStatus/ProfileStatus.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/hoc/withAuthRedirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/hoc/withAuthRedirect.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,8 +115,16 @@
       <workItem from="1614843811319" duration="5420000" />
       <workItem from="1615281639342" duration="14602000" />
       <workItem from="1615367115763" duration="3596000" />
-      <workItem from="1615550896455" duration="14314000" />
+      <workItem from="1615550896455" duration="17992000" />
     </task>
+    <task id="LOCAL-00001" summary="+1">
+      <created>1615568524356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615568524356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="+1" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

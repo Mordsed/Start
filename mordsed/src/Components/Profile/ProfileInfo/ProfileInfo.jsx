@@ -15,7 +15,7 @@ const ProfileInfo = (props) => {
                      src="https://img5.goodfon.ru/original/3200x1200/e/e2/tigr-belyi-brevna-chernyi-fon.jpg"/>*/}
             </div>
             <div className={s.description}>
-                <div><img alt={"bigPhoto"} src={props.profile.photos.large}/></div>
+                <div><img alt={"Ava"} src={props.profile.photos.large}/></div>
                 <ProfileStatus status={props.status} updateUserStatus={props.updateUserStatus}/>
                 <div className={s.about}>
                     <div>Name: {props.profile.fullName}</div>

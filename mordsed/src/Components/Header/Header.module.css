@@ -9,9 +9,11 @@
 }
 .loginBlock {
     float: right;
-    background: white;
-    color:red
+    color:white;
 }
 .loginBlock a {
-      color:red
+      color:white;
+}
+.loginBlock button{
+    background: white;
 }

@@ -1,7 +1,6 @@
 import {profileAPI, usersAPI} from "../Axios/Axios";
 
 const ADD_POST = "ADD-POST";
-const UPDATE_POST_TEXT = "UPDATE-POST-TEXT";
 const SET_USER_PROFILE = "SET-USER-PROFILE";
 const SET_USER_STATUS = "SET_USER_STATUS";
 
@@ -14,7 +13,6 @@ let initialState = {
         {id: 5, message: 'Hello, my name is Dima!', likeCount: "1"},
         {id: 6, message: 'I from in Vologda, Russia', likeCount: "3"}
     ],
-    newPostText: '',
     profile: null,
     status: '',
 
@@ -23,16 +21,10 @@ let initialState = {
 const profileReducer = (state = initialState, action) => {
     switch (action.type) {
         case ADD_POST:
-            let text = state.newPostText
+            let text = action.newPostText
             return {
                 ...state,
                 posts: [...state.posts, {id: 7, message: text}],
-                newPostText: ''
-            }
-        case UPDATE_POST_TEXT:
-            return {
-                ...state,
-                newPostText: action.updateText
             }
         case SET_USER_PROFILE:
             return {
@@ -48,9 +40,9 @@ const profileReducer = (state = initialState, action) => {
     }
 }
 
-export const addPostCreator = () => {
+export const addPostCreator = (newPostText) => {
     return (
-        {type: ADD_POST}
+        {type: ADD_POST, newPostText}
     )
 }
 export const setUserProfile = (profile) => {
@@ -61,11 +53,6 @@ export const setUserProfile = (profile) => {
 export const setUserStatus = (status) => {
     return (
         {type: SET_USER_STATUS, status}
-    )
-}
-export const updatePostTextCreator = (text) => {
-    return (
-        {type: UPDATE_POST_TEXT, updateText: text}
     )
 }
 export const getUserProfile = (userId) => (dispatch) => {

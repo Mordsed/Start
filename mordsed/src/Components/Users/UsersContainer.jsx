@@ -7,7 +7,7 @@ import {
     unFollow, follow
 } from "../../Redux/users-reducer";
 import Users from "./Users";
-import Preloader from "../Common/Loader";
+import Preloader from "../Common/Loader/Loader";
 
 
 class UsersContainer extends React.Component {

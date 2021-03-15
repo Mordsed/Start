@@ -1,10 +1,10 @@
 import React from "react";
-import preloader from "./../../assets/images/loader.gif"
+import preloader from "../../../assets/images/loader.gif"
 import s from "./Loader.module.css"
 
 let Preloader = () => {
     return <div  >
-        <img className={s.preloader} src={preloader} />
+        <img alt={"Preloader"} className={s.preloader} src={preloader} />
     </div>
 }
 

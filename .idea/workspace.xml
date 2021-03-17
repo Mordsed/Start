@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112c9fcb-09c6-41b3-8d5c-275ac7edbf7b" name="Default Changelist" comment="+2">
-      <change afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mordsed/src/utils/validators/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mordsed/src/Redux/app-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Axios/Axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Axios/Axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Common/Loader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/Loader/Loader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Common/Loader.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/Loader/Loader.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Dialogs/DialogsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Dialogs/DialogsContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Common/FormsControl/FormsControl.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Header/HeaderContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Header/HeaderContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Login/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/MyPosts/Post/MyPostsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Users/UsersContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Redux/auth-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Redux/auth-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Redux/dialogs-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Redux/dialogs-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mordsed/src/Redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Redux/profile-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mordsed/src/Redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/mordsed/src/Redux/redux-store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mordsed/src/Components/Profile/ProfileInfo/ProfileStatus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mordsed/src/Redux" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,15 +65,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-    <property name="ts.external.directory.path" value="C:\Users\user\WebstormProjects\Start\mordsed\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="ts.external.directory.path" value="C:\Users\bozhe\Documents\project1\mordsed\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Redux" />
       <recent name="C:\Users\user\WebstormProjects\Start\mordsed\src\Components\Profile\ProfileInfo\ProfileStatus" />
       <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Header" />
-      <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Redux" />
       <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Profile\ProfileInfo" />
       <recent name="C:\Users\bozhe\Documents\project1\mordsed\src\Components\Profile" />
     </key>
@@ -139,6 +126,8 @@
       <workItem from="1615281639342" duration="14602000" />
       <workItem from="1615367115763" duration="3596000" />
       <workItem from="1615550896455" duration="58731000" />
+      <workItem from="1615906424941" duration="86000" />
+      <workItem from="1615906634326" duration="10744000" />
     </task>
     <task id="LOCAL-00001" summary="+1">
       <created>1615568524356</created>
@@ -170,6 +159,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -187,5 +177,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
